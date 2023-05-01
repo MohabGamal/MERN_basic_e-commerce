@@ -1,0 +1,4 @@
+node_modules
+.env
+Resources.txt
+workspace.code-workspace
